@@ -96,6 +96,7 @@ Security recon & intelligence tooling
 ## 🤝 Let’s Connect
 
 - 💻 GitHub: https://github.com/lalithsagarJ
+- 💼 Portfolio: https://lalithsagar-portfolio.vercel.app/
 - 🧠 Learning, building, breaking — always
 
 > _“Strong systems aren’t lucky. They’re engineered.”_
